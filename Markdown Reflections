@@ -1,3 +1,4 @@
-## **Markdown Relfections**
+## Markdown Relfections
 
 - The issues I ran into were with shinyapps.io. Trying to install the packages and run the program. I replayed the class video to guide me as much as possible.
+- for example in my terminal it stated "Error: Invalid value for 'DIRECTORY': Directory 'path/to/your/app' does not exist." when trying to deploy. 
